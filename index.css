@@ -55,6 +55,17 @@ body {
 	font-size: 32px;
 	line-height: 50px;
 }
-.buy{
-	
+.buy-wrapper{
+	display: flex;
+}
+.buy-link {
+	display: block;
+	width: 278px;
+	height: 82px;
+	background: #161515;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 32px;
+	line-height: 82px;
+	text-align: center;
 }
