@@ -69,3 +69,14 @@ body {
 	line-height: 82px;
 	text-align: center;
 }
+
+.prise{
+	width: 143px;
+	height: 82px;
+	background: #fff;
+	color: #272727;
+	text-decoration: none;
+	font-size: 32px;
+	line-height: 82px;
+	text-align: center;
+}
