@@ -90,7 +90,12 @@ body {
 	line-height:45px ;
 	margin-top: 43px;
 	text-align: center;
+	font-weight: 300px;
+	
 }
 .popular-models{
-	
+	font-size: 72px;
+	line-height:81px ;
+	text-align: center;
+	font-weight: 400px;
 }
