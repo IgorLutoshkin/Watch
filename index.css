@@ -98,4 +98,15 @@ body {
 	line-height:81px ;
 	text-align: center;
 	font-weight: 400px;
+	margin-bottom: 84px;
 }
+.item-img-wrapper{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 630px;
+	width:417px;
+	background-color: #F8F8F8;
+	margin-bottom: 62px;
+}
+.i
