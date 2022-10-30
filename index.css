@@ -90,14 +90,14 @@ body {
 	line-height:45px ;
 	margin-top: 43px;
 	text-align: center;
-	font-weight: 300px;
+	font-weight: 300;
 	
 }
 .popular-models{
 	font-size: 72px;
 	line-height:81px ;
 	text-align: center;
-	font-weight: 400px;
+	font-weight: 400;
 	margin-bottom: 84px;
 }
 .item-wrapper{
@@ -119,4 +119,12 @@ body {
 	line-height: 29px;
 	text-align: center;
 	margin-bottom: 17px;
+	font-weight: 400;
+}
+.item-descript{
+	font-size: 32px;
+	line-height: 50px;
+	font-weight: 300;
+	margin-bottom: 85px;
+	text-align:center ;
 }
